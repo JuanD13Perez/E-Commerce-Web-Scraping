@@ -1,1 +1,3 @@
 chromedriver.exe
+__pycache__
+venv
