@@ -26,7 +26,7 @@ A continuación un video con la implementación del algortimo:
 
 ### Video
 
-![E-commerce-Video](E-Commerce-Web-Video.mp4)
+![E-commerce-Video](Video.mp4)
 
 Cortamos unas partes y aceleramos. Vemos que el algoritmo no es muy rápido ya que usa Selenium. Tampoco pretendemos tener un alto uso de banda ancha. Sobre el final del video vemos los resultados para un test de los primeros 18 links: Un pandas DataFrame con los nombres, links y precios que salen al realizar la búsqueda conjuntamente con un id.
 
