@@ -23,11 +23,9 @@ Entregable:
 * Un pandas dataFrame con los precios y los URL de los productos para cada compañía de la competencia.
 
 A continuación un video con la implementación del algortimo:
-
 ### Video
-<div align ="center">
-    <video src="Video.mp4" width=400/>
-<div/>
+
+[![Watch the video](https://img.youtube.com/vi/xkBM3YIJbrk/hqdefault.jpg)](https://www.youtube.com/watch?v=xkBM3YIJbrk)
 
 Cortamos unas partes y aceleramos. Vemos que el algoritmo no es muy rápido ya que usa Selenium. Tampoco pretendemos tener un alto uso de banda ancha. Sobre el final del video vemos los resultados para un test de los primeros 18 links: Un pandas DataFrame con los nombres, links y precios que salen al realizar la búsqueda conjuntamente con un id.
 
