@@ -25,7 +25,7 @@ Entregable:
 A continuación un video con la implementación del algortimo:
 ### Video
 
-[![Watch the video](https://img.youtube.com/vi/xkBM3YIJbrk/hqdefault.jpg)](https://www.youtube.com/watch?v=xkBM3YIJbrk)
+[![Watch the video](Banner_youtube.png)](https://www.youtube.com/watch?v=xkBM3YIJbrk)
 
 Cortamos unas partes y aceleramos. Vemos que el algoritmo no es muy rápido ya que usa Selenium. Tampoco pretendemos tener un alto uso de banda ancha. Sobre el final del video vemos los resultados para un test de los primeros 18 links: Un pandas DataFrame con los nombres, links y precios que salen al realizar la búsqueda conjuntamente con un id.
 
